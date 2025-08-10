@@ -27,10 +27,10 @@ Think of it as a personal intelligence analyst, but without the coffee stains or
 ---
 ## Demo
 ![preview 1](https://github.com/dawit2123/DocScribe-AI/blob/main/Assets/preview1.png)
-![Demo](https://github.com/dawit2123/DocScribe-AI/blob/main/Assets/System%20Design.png)
+![Demo](https://github.com/dawit2123/DocScribe-AI/blob/main/Assets/demo.png)
 ![preview 2](https://github.com/dawit2123/DocScribe-AI/blob/main/Assets/preview2.png)
 # Design Image
-![Design](https://github.com/dawit2123/DocScribe-AI/blob/main/Assets/demo.png)
+![Design](https://github.com/dawit2123/DocScribe-AI/blob/main/Assets/System%20Design.png)
 # Brief Report
 [Brief Report](https://github.com/dawit2123/DocScribe-AI/blob/main/DocScribe%20AI%20Brief%20report.pdf)
 
@@ -139,6 +139,7 @@ Once the Streamlit & Ngrok cells finish running in Colab, you'll see a public UR
   *DocScribe: Cutting through the noise, one insight at a time!*
 
 </p>
+
 
 
 
